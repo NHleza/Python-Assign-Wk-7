@@ -11,7 +11,7 @@ try:
     
     # Display the first few rows
     print("First Few Rows of the Dataset:")
-    print(data.head())
+    print(data.head()) 
     
     # Explore the structure of the dataset
     print("\nDataset Info:")
